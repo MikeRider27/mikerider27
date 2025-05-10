@@ -15,9 +15,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mikerider27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikerider27" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/miguel-villalba-673517181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-jos%c3%a9-gonz%c3%a1lez-ram%c3%adrez-53757019b/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mikerider27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@coldrooster" height="30" width="40" /></a>
+  <a href="https://x.com/mikerider27" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X - mikerider27" width="30" height="30" />
+  </a>
+    <a href="https://www.linkedin.com/in/miguel-villalba-673517181/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Miguel Villalba" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@mikerider27" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube - mikerider27" width="30" height="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,8 +35,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="firebase" width="40" height="40"/>
+</a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/flask/000000" alt="flask" width="40" height="40"/>
+</a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
