@@ -1,67 +1,89 @@
-<h1 align="center">Hi 👋, I'm Miguel Angel Villalba Cabañas</h1>
-<h3 align="center">Passionate Full Stack/Backend/Mobile Developer from Paraguay.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/mikerider27" target="blank"><img src="https://img.shields.io/twitter/follow/mikerider27?logo=twitter&style=for-the-badge" alt="mikerider27" /></a> </p>
+# Hi, I'm Miguel Ángel Villalba Cabañas 👋
 
-- 🔭 I’m currently working in the [Ministry of Public Health and Social Welfare](https://www.facebook.com/ministeriodesaludparaguay) - [DGTIC](https://www.mspbs.gov.py/dgtic)
+### Full Stack / Backend / Mobile Developer 🇵🇾
 
-- 🌱 I’m currently learning **Nextjs, Android, Django, Flutter**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Mobile+Developer;Always+learning+something+new" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/mikerider27](https://github.com/mikerider27)
+[![Profile Views](https://komarev.com/ghpvc/?username=mikerider27&color=2E9EF7&style=flat-square)](https://github.com/MikeRider27)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mikerider27?logo=twitter&style=flat-square)](https://twitter.com/mikerider27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miguel-villalba-673517181/)
 
-- 💬 Ask me about **react, Vuejs, sql, Laravel, Spring, flask, struts2, docker, hapi Fhir**
+</div>
 
-- 📫 How to reach me **mike.mavc27@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 💼 Currently building software for Paraguay's [Ministry of Public Health and Social Welfare](https://www.facebook.com/ministeriodesaludparaguay) at [DGTIC](https://www.mspbs.gov.py/dgtic)
+- 🌱 Currently leveling up in **Next.js, Android, Django and Flutter**
+- 💬 Happy to talk shop about **React, Vue.js, SQL, Laravel, Spring, Flask, Struts2, Docker, HAPI FHIR**
+- 🧩 End-to-end range: web, backend APIs and mobile apps
+- 👨‍💻 All my projects live at [github.com/MikeRider27](https://github.com/MikeRider27)
+- 📫 Let's talk: **mike.mavc27@gmail.com**
+- 🤝 Open to new opportunities and interesting collaborations
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Databases & DevOps**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📊 GitHub Stats
+
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikerider27&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🌐 Connect with me
+
 <p align="left">
   <a href="https://x.com/mikerider27" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/x/000000" alt="X - mikerider27" width="30" height="30" />
   </a>
-    <a href="https://www.linkedin.com/in/miguel-villalba-673517181/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/miguel-villalba-673517181/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Miguel Villalba" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@mikerider27" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube - mikerider27" width="30" height="30" />
   </a>
+  <a href="mailto:mike.mavc27@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email - mike.mavc27@gmail.com" width="30" height="30" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="firebase" width="40" height="40"/>
-</a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/flask/000000" alt="flask" width="40" height="40"/>
-</a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>      <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikerider27&show_icons=true&locale=en&layout=compact" alt="mikerider27" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikerider27&show_icons=true&locale=en" alt="mikerider27" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikerider27&" alt="mikerider27" /></p>
